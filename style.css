@@ -39,6 +39,7 @@
 		}
 		#fourth {color: #002757 ;
 		}
-		.start {border: thick double #00224d;
+			.start {border: thick double #00224d;
+			font: italic 3em 'Roboto Slab', serif;
 			
 		}
