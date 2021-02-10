@@ -1,4 +1,5 @@
-Body {
+
+		Body {
 			background-color: #b8f2fc;
 			color:black;
 			font-family: 'Roboto Slab', serif;
@@ -9,6 +10,7 @@ Body {
 			padding: 10px 10px 10px 10px;
 			background-color: #0055bd;
 			color: white;
+			border: solid white;
 		}
 		#first {
 			color: white;
@@ -17,6 +19,7 @@ Body {
 			padding: 10px 10px 10px 10px;
 			background-color: #147eff;
 			color: white;
+			border: solid #b3d4ff;
 		}
 		#second {color: white ;
 		}
@@ -24,6 +27,7 @@ Body {
 			padding: 10px 10px 10px 10px;
 			background-color: #6baeff;
 			color: white;
+			border: solid #0063e3;
 		}
 		#third {color: white ;
 		}
@@ -31,6 +35,7 @@ Body {
 			padding: 10px 10px 10px 10px;
 			background-color: #add2ff;
 			color: #002757;
+			border: solid #002757;
 		}
 		#fourth {color: #002757 ;
 		}
