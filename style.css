@@ -5,6 +5,34 @@
 			font-family: 'Roboto Slab', serif;
 			
 		}
+		div {
+			padding: 10px 0px 10px 0px;
+		}
+		
+		ul{ 
+			overflow: hidden;
+			padding: 0px;
+			margin: 0px;
+			background-color: #2e0791;
+		}
+		
+		li {
+			display: inline;
+			float:left;
+		}
+		li a {
+			float: left;
+			display: block;
+			padding: 8px 15px 8px 15px;
+			background-color: #2e0791;
+			color: white;
+			text-decoration: none;
+		}
+		li a:hover{
+			background-color: #7d57de;
+		} 
+		
+		
 			
 		.First{
 			padding: 10px 10px 10px 10px;
@@ -14,6 +42,7 @@
 		}
 		#first {
 			color: white;
+	
 		}
 		.Second{
 			padding: 10px 10px 10px 10px;
@@ -39,7 +68,7 @@
 		}
 		#fourth {color: #002757 ;
 		}
-			.start {border: thick double #00224d;
+		.start {border: thick double #00224d;
 			font: italic 3em 'Roboto Slab', serif;
 			
 		}
